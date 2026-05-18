@@ -8,4 +8,4 @@ institution = "MIT CSAIL"
 author_url = "https://danielarus.csail.mit.edu/"
 +++
 
-Daniela Rus directs CSAIL at MIT. She is a leader in robotics and has also made important contributions to parallelized sequence modeling.
+Daniela Rus is the Director of CSAIL at MIT. She has made important contributions to parallelized sequence modeling, including the development of liquid neural networks and deep state space models.

@@ -8,4 +8,4 @@ institution = "Johannes Kepler University Linz"
 author_url = "https://www.jku.at/en/institute-for-machine-learning/about-us/team/sepp-hochreiter/"
 +++
 
-Sepp Hochreiter directs the Institute for Machine Learning at Johannes Kepler University Linz. He is an AI pioneer and the inventor of LSTMs.
+Sepp Hochreiter directs the Institute for Machine Learning at Johannes Kepler University Linz. He is the inventor of LSTMs and a co-developer of xLSTM, whose parallel scan formulation makes large-scale recurrent language modeling practical.

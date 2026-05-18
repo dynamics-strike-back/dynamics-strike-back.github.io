@@ -8,4 +8,4 @@ institution = "Stanford University"
 author_url = "https://cs.stanford.edu/~ermon/"
 +++
 
-Stefano Ermon is an Associate Professor of Computer Science at Stanford. He has written many seminal papers on parallel-in-time methods for probabilistic and generative modeling.
+Stefano Ermon is an Associate Professor of Computer Science at Stanford. He has written seminal papers on parallel-in-time methods for probabilistic and generative modeling, including parallel sampling of diffusion models.

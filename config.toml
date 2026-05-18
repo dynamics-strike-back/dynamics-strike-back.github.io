@@ -9,7 +9,7 @@ theme = "academic-workshop"
 smart_punctuation = true
 
 [extra]
-title = {tagline = "ICML 2026 Workshop on", title = "Parallelizing \"Inherently Sequential\" Computation", subtitles = [], url = true}
+title = {tagline = "NeurIPS 2026 Workshop on", title = "Parallelizing \"Inherently Sequential\" Computation", subtitles = [], url = true}
 banner = {extension = "svg", size = "fit-height", fade = true}
 buttons = [{name = "Speakers", url = "/speakers"}, {name = "Call for Papers", url = "/papers"}, {name="Programme", url="/programme"}, {name="Registration", url = "/registration"}, {name="Organizers", url="/organizers"}]
 header_pages = [{name = "Home", url = "/#home"}, {name = "Speakers", url = "/speakers"}, {name = "Call for Papers", url = "/papers"}, {name = "Programme", url = "/programme"}, {name = "Registration", url = "/registration"}, {name="Organizers", url="/organizers"}]
