@@ -1,5 +1,5 @@
 +++
-title = "Workshop on Parallelizing \"Inherently Sequential\" Computation"
+title = "Dynamics Strike Back"
 +++
 
 # Instructions
@@ -10,7 +10,7 @@ Submissions are handled through **OpenReview**. The submission portal will be li
 
 - **Length:** 4 pages maximum, excluding references and appendices.
 - **Review:** Double-blind --- please anonymize your submission (no author names, affiliations, or identifying acknowledgments).
-- **Process:** Each paper receives three reviews from our program committee of 40+ confirmed reviewers, with a maximum of three submissions per reviewer.
+- **Process:** Each paper receives three reviews from our program committee of 44 confirmed reviewers, with a maximum of three submissions per reviewer.
 - **Accepted papers** are featured as posters; a selection are also given spotlight talks. All accepted papers are released on OpenReview for community visibility.
 
 ## Template
